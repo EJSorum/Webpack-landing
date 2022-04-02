@@ -1,2 +1,2 @@
 # Webpack-landing
-I practice Webpack skills by building a landing page.
+I practice Webpack and CSS Grid skills by building a simple landing page.
